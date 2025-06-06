@@ -7,19 +7,19 @@ export const AboutPage: React.FC = () => {
       name: 'Tatheer Fathima',
       role: 'Founder & Lead Developer',
       image: 'https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=300',
-      bio: 'Cybersecurity expert with 8+ years in file analysis tools',
+      bio: 'Developer with a passion for secure coding practices',
     },
     {
       name: 'Name 2',
-      role: 'UI/UX Designer',
+      role: 'Backend Developer',
       image: 'https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=300',
-      bio: 'Design specialist focused on intuitive user experiences',
+      bio: 'backend developer with a passion for secure coding practices',
     },
     {
       name: 'Name 3',
       role: 'Security Analyst',
       image: 'https://images.pexels.com/photos/697509/pexels-photo-697509.jpeg?auto=compress&cs=tinysrgb&w=300',
-      bio: 'Former penetration tester with expertise in malware detection',
+      bio: 'Security analyst with a focus on threat detection and response',
     },
   ];
 
