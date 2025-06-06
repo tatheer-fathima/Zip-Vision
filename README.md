@@ -1,7 +1,7 @@
 # 📦 ZipVision
 
 📣 ZIP files are everywhere — from code submissions and design assets to research data and cloud backups.  
-But in 2025, why are we still **extracting files just to see what’s inside**?
+But in today's fast-moving digital world, why are we still **extracting files just to see what’s inside**?
 
 With rising security threats, tight deadlines, and the need to move fast, the traditional ZIP workflow is **slow, risky, and inefficient**.
 
@@ -12,7 +12,7 @@ With rising security threats, tight deadlines, and the need to move fast, the tr
 A modern, browser-based ZIP explorer designed for developers, analysts, students, and teams who need speed, safety, and insight.  
 Explore file trees, view content, detect threats, and visualize data — all from your browser. No extractions. No waiting. Just clarity.
 
-> **ZipVision is not just a ZIP viewer — it's how ZIP files should work in 2025.**
+
 
 
 
